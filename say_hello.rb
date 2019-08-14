@@ -1,5 +1,5 @@
 def say_hello(name)
-  puts "Say hello #{name}!"
+  puts "Hello #{name}!"
 end
 
-say_hello("Maria !")
+say_hello("")
